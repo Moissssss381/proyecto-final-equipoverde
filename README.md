@@ -1,6 +1,6 @@
 # proyecto-final-verde
 <p align="center">
-  <img src="assets/images/NailStock.png" alt="NailStock Logo" width="230"/>
+  <img src="assets/icons/NailStock.png" alt="NailStock Logo" width="230"/>
 </p>
 
 <h1 align="center">NailStock</h1>
