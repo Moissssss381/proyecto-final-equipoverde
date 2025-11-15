@@ -79,18 +79,6 @@ Su interfaz intuitiva mejora la eficiencia del personal, reduce pérdidas por de
 | **Memoria RAM recomendada** | 4 GB o más |
 ---
 
-## ⭐ Badges del Proyecto
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyQt-6-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-En%20Desarrollo-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Licencia-MIT-blue?style=for-the-badge" />
-</p>
-
----
-
 ##  Banner
 
 <p align="center">
@@ -105,10 +93,6 @@ NailStock representa el compromiso, dedicación y visión de un equipo decidido 
 
 Gracias por acompañarnos.  
 ---
-
-##  Banner Final
-
-```text
   _   _       _                  _      ____     _____   U  ___ u   ____   _  __    
  | \ |"|  U  /"\  u     ___     |"|    / __"| u |_ " _|   \/"_ \/U /"___| |"|/ /    
 <|  \| |>  \/ _ \/     |_"_|  U | | u <\___ \/    | |     | | | |\| | u   | ' /     
