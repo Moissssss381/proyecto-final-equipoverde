@@ -57,3 +57,27 @@ Su interfaz intuitiva mejora la eficiencia del personal, reduce pérdidas por de
 | **Python** | Versión 3.9 o superior |
 | **Espacio libre** | Mínimo 500 MB |
 | **Memoria RAM recomendada** | 4 GB o más |
+---
+
+## Banner
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=1000&center=true&vCenter=true&color=00BFFF&width=900&lines=NailStock+Software;Sistema+de+Gesti%C3%B3n+para+Ferreter%C3%ADas;Desarrollado+en+Python+%26+PyQt6;Proyecto+Final+de+Ingenier%C3%ADa+en+Software" alt="Typing SVG" />
+</p>
+
+---
+
+##  Conclusión
+
+NailStock representa el compromiso, dedicación y visión de un equipo decidido a crear una herramienta profesional para la gestión de ferreterías.  
+
+Gracias por acompañarnos.  
+---
+```text
+  _   _       _                  _      ____     _____   U  ___ u   ____   _  __    
+ | \ |"|  U  /"\  u     ___     |"|    / __"| u |_ " _|   \/"_ \/U /"___| |"|/ /    
+<|  \| |>  \/ _ \/     |_"_|  U | | u <\___ \/    | |     | | | |\| | u   | ' /     
+U| |\  |u  / ___ \      | |    \| |/__ u___) |   /| |\.-,_| |_| | | |/__U/| . \\u   
+ |_| \_|  /_/   \_\   U/| |\u   |_____||____/>> u |_|U \_)-\___/   \____| |_|\_\    
+ ||   \\,-.\\    >>.-,_|___|_,-.//  \\  )(  (__)_// \\_     \\    _// \\,-,>> \\,-. 
+ (_")  (_/(__)  (__)\_)-' '-(_/(_")("_)(__)    (__) (__)   (__)  (__)(__)\.)   (_/  
