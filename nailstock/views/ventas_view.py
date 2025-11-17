@@ -1,11 +1,11 @@
 from PyQt6.QtWidgets import (QWidget, QVBoxLayout, QHBoxLayout, QTableWidget, 
                              QTableWidgetItem, QPushButton, QComboBox, QSpinBox,
                              QHeaderView, QMessageBox, QLabel)
-from models.cliente_model import ClienteModel
-from models.producto_model import ProductoModel
-from controllers.venta_controller import VentaController
-from utils.mensajes import Mensajes
-from database.db_connection import get_db_connection
+from ..models.cliente_model import ClienteModel
+from ..models.producto_model import ProductoModel
+from ..controllers.venta_controller import VentaController
+from ..utils.mensajes import Mensajes
+from ..database.db_connection import get_db_connection
 
 class VentasView(QWidget):
     def __init__(self):
